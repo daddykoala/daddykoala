@@ -1,3 +1,3 @@
 Bonjour,
 
-### [Wakatime Weekly Metrics](https://github.com/daddykoala) - [athul](https://github.com/daddykoala/) 
+### [Weekly Metrics](https://github.com/daddykoala/readme.md) - [Clément Moretti](https://github.com/daddykoala/) 
