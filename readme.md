@@ -1,6 +1,4 @@
-Hello it's me
+Bonjour,
 
-### [profile-summary-cards](https://github.com/daddykoala)
-<img height="50%" src="https://github-readme-stats.vercel.app/api?username=daddykoala&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
-### [profile_stack](https://github.com/daddykoala) Tech stack list - [Clement Moretti](https://github.com/daddykoala/)
-<img height="50%" src="https://github-readme-stats.vercel.app/api?username=daddykoala&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
+### [Wakatime Weekly Metrics](https://github.com/daddykoala) 
+![preview](https://user-images.githubusercontent.com/8397274/87243943-e6b45c00-c457-11ea-94c9-2aa0bf241be8.png)
