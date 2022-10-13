@@ -1,8 +1,8 @@
 Bonjour,
 
-### [Weekly Metrics](https://github.com/daddykoala/readme.md) - [Clément Moretti](https://github.com/daddykoala/) 
+
 ### Github Stats:
-  
+  dddd
 <p align="center">
   <a href="https://github.com/daddykoala">
     <img height="50%" src="https://github-readme-stats.vercel.app/api?username=daddykoala&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
