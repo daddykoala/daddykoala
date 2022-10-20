@@ -1,8 +1,9 @@
 Salut
 
 Ancien cuisinier de 37 ans .
-Reconverti Je suis un developpeur Fullstack js qui souhaite a termes se diriger vers le web 3.0,mais chaque chose en son temps .
-j'adore développer ,j'adore apprendre.
+Reconverti Je suis un developpeur Fullstack js .
+Très intéressé par l'optimistion autant en back que en front je suis également très attiré par le web 3.0.
+j'adore développer ,apprendre et le travail en équipe .
 
 ### Github Stats:
   
