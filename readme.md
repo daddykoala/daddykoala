@@ -17,5 +17,4 @@ Je suis donc un jeune développeur passionné de 38 ans à la recherche de ma pr
     </a>
 </p>
   
-<hr>
-<img align="center" src="https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+
