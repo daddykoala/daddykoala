@@ -48,10 +48,6 @@ Après une longue carrière en cuisine, j'ai réinventé ma vie professionnelle 
     <hr/>
     <div align="center"><img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daddykoala&layout=compact&langs_count=5&theme=tokyonight"/></div>
     </a>
-  <div align="center"><img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daddykoala&layout=compact&langs_count=5&theme=tokyonight"/></div>
-  <div align="center"><img height="190em" src="[https://https://activity-graph.herokuapp.com/graph?username=daddykoala&theme=react-dark"/></div>
-
-  ![Profile views](https://gpvc.arturio.dev/daddykoala)
 
 
 </p>
