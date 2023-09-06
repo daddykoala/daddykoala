@@ -15,7 +15,7 @@ Je suis donc un jeune développeur passionné de 38 ans à la recherche de ma pr
     <hr/>
     <div align="center"><img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daddykoala&layout=compact&langs_count=5&theme=tokyonight"/></div>
     <hr/>
-    <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daddykoala&theme=tokyonight" /></div>
+<!--     <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daddykoala&theme=tokyonight" /></div> -->
     <hr/>
     </a>
 </p>
